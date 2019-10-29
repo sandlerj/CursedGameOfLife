@@ -1,5 +1,6 @@
 '''Animating Conway's game of life using curses library. 
-Utilizes loose MVC structure 
+Utilizes loose MVC structure.
+Author: sandlerj
 '''
 import curses
 from curses.textpad import Textbox, rectangle
